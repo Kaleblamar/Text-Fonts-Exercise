@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Press+Start+2P&display=swap");
 
 :root {
-  font-family: "orbitron";
+  font-family: "orbitron", sans-serif;
   background-image: url(./starTrek.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -15,7 +15,7 @@ h1 {
   font-size: 50px;
   letter-spacing: 10px;
   text-align: center;
-  text-transform: capitalize;
+  text-transform: uppercase;
   text-decoration: underline;
 }
 #series-movies {
